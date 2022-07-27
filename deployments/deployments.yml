@@ -22,3 +22,4 @@ spec:
         name: nodeapp
         ports:
         - containerPort: 8080
+4+2+2=8
